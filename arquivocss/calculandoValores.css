@@ -1,0 +1,24 @@
+body {
+    font: normal 18px Arial;
+    background: #969696;
+}
+h1 {
+    text-align: center;
+    color: #144f9b;
+}
+input {
+    font: normal 18px Arial;
+    width: 100px;
+}
+div#ressom {
+    margin-top: 10px;
+}
+div#ressub {
+    margin-top: 10px;
+}
+div#resmul {
+    margin-top: 10px;
+}
+.valores {
+    text-align: center;
+}
