@@ -1,0 +1,23 @@
+body {
+    background: #999999;
+}
+header {
+    color: #ffffff;
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+div#primarias {
+    background: #ffffff;
+    border-radius: 20px;
+    width: 600px;
+    text-align: center;
+    
+}
+div#secundarias {
+    background: #ffffff;
+    border-radius: 20px;
+    width: 600px;
+    text-align: center;
+}
